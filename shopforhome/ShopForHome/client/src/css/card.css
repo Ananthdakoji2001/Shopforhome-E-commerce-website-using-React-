@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.image{
+    height: 200px;
+    overflow: hidden;
+}
+.card{
+    margin-bottom: 40px;
+    width: 275px;
+    height: 375px;
+    position: relative;
+    border: 1px solid rgba(0,78,146,1);
+    border-radius: 20px;
+}
+.cont{
+    background: rgb(0,4,40);
+}
+.count{
+    position:absolute;
+    right: 10px;
+    bottom:15px;
+    width:100px;
+}
+.card-text{
+    margin-bottom: 0.2rem;
+    color: white;
+}
+.cd{
+    color: white;
+}
+.btn{
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+    padding: 0.5rem;
+}
+.fav{
+    position: absolute;
+    top:0;
+    right: 5px;
+}
+.price{
+    color:#FA8128;
+}

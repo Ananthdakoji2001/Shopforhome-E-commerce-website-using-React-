@@ -1,0 +1,6 @@
+__v,_id,category,createdAt,description,imagename,imageurl,name,price,quantity,shiping,sold,updatedAt
+0,62cae8be970a4c22fc41e3d6,63047f93fd13641b48ad1380,2022-08-23T14:36:53.530+00:00,product1,product1.jpg,http://localhost:5000/images/product1.jpg,product1,1500,500,TRUE,0,2022-08-23T07:19:47.641+00:00
+0,62cae8f2970a4c22fc41e3d1,63047f93fd13641b48ad1380,2022-01-23T14:36:53.530+00:00,product2,product2.jpg,http://localhost:5000/images/product2.jpg,product2,2000,45,TRUE,0,2022-01-23T07:19:47.641+00:00
+0,62cae910970a4c22fc41e3d1,6304e228a55afe1eacc1ae14,2022-04-23T14:36:53.530+00:00,product3,product3.jpg,http://localhost:5000/images/product3.jpg,product3,3000,60,TRUE,0,2022-04-23T07:19:47.641+00:00
+0,62cae99c970a4c22fc41e3d2,6304e228a55afe1eacc1ae14,2022-05-23T14:36:53.530+00:00,product4,product4.jpg,http://localhost:5000/images/product4.jpg,product4,30000,500,TRUE,0,2022-05-23T07:19:47.641+00:00
+0,62cae9b4970a4c22fc41e3d3,6304e605a55afe1eacc1ae17,2021-08-23T14:36:53.530+00:00,product5,product5.jpg,http://localhost:5000/images/product5.jpg,product5,40000,600,TRUE,0,2021-08-23T07:19:47.641+00:00
