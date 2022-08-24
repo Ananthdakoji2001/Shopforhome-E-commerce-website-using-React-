@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\" \" cd Microservice && nodemon microservice.js\""
   },
   "keywords": [],
-  "author": "GL-Wipro-Group-12",
+  "author": "GL-Wipro-Group-10",
   "license": "",
   "dependencies": {
     "axios": "^0.19.2",
